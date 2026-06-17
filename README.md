@@ -97,7 +97,7 @@ Facial-Recognition-Attendance/
 
 ### Clone Repository
 ```bash
-git clone https://github.com/adityabansal13/Facial-Recognition-Attendance
+git clone https://github.com/AdityaNaithani/Facial-Recognition-Attendance
 cd Facial-Recognition-Attendance
 ```
 
@@ -161,4 +161,4 @@ MIT License
 ---
 
 ## 👨‍💻 Author
-**Aditya Bansal**
+**Aditya Naithani**
